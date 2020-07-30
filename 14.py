@@ -19,3 +19,5 @@ while d / 2 > 0:
             p += 1
         d -= 1
 out.save('Level_14.jpg')                                                       # La imagen es un gato -> Cambiar URL por http://www.pythonchallenge.com/pc/return/cat.html
+
+# "and its name is uzi. you'll hear from him later" -> Cambiar URL por http://www.pythonchallenge.com/pc/return/uzi.html
