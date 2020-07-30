@@ -1,5 +1,5 @@
 # Click en "evil1.jpg" del codigo fuente -> http://www.pythonchallenge.com/pc/return/evil1.jpg -> Cambiar URL por 'evil2' http://www.pythonchallenge.com/pc/return/evil2.jpg
-# Cambiar sufijo jpg por gfx -> Se descarga 'evil2.gfx'
+# Cambiar .jpg por .gfx -> Se descarga 'evil2.gfx'
 # Cambiar URL por 'evil3' http://www.pythonchallenge.com/pc/return/evil3.jpg
 # Cambiar URL por 'evil4' http://www.pythonchallenge.com/pc/return/evil4.jpg
 # Cambiar URL por 'evil5' http://www.pythonchallenge.com/pc/return/evil5.jpg -> Error 404
