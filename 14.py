@@ -6,7 +6,7 @@ from PIL import Image
 im = Image.open('wire.png')
 print(im.size)                                                                 # La imagen no es 100x100, ess 1000x1
 
-delta = [(1,0), (0,1), (-1,0), (0,-1)]                                            # Crear otra imagen de 100x100 rodeando el cuadrado desde fuera hacia dentro (espiral)
+delta = [(1,0), (0,1), (-1,0), (0,-1)]                                         # Crear otra imagen de 100x100 rodeando el cuadrado desde fuera hacia dentro (espiral)
 out = Image.new('RGB', [100, 100])
 x,y,p = -1, 0, 0
 d = 200
